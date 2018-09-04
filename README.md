@@ -1,0 +1,2 @@
+# Magazyn
+Kopia pracy zaliczeniowej.
